@@ -1,0 +1,13 @@
+.container {
+    padding-top: 20px;
+}
+
+.title {
+    text-align: center;
+    color: green;
+    font-weight: bolder;
+}
+
+.spacer {
+    padding: 20px;
+}
